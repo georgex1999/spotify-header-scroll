@@ -1,5 +1,5 @@
 # spotify-header-scroll
-William Candillon react native tutorial with some small modifications had to update Expo to version 35 to get it to run
+William Candillon React Native tutorial from boilerplate to running with some small modifications to get it working, I had to update Expo to version 35 from 33.
 
 ## Install Expo
 npm install -g expo-cli
